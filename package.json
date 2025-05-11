@@ -1,0 +1,16 @@
+{
+  "name": "hapksz",
+  "version": "1.2",
+  "bin": {
+    "hapksz": "./bin/hapksz.js",
+    "hapkz": "./bin/hapksz.js",
+    "hapks": "./bin/hapksz.js"
+  },
+  "scripts": {
+    "start": "node ./bin/hapksz.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "appName": "hapksz",
+  "version": "1.2",
+  "compilers": {
+    "python": {
+      "command": "python",
+      "args": ["-m", "py_compile"]
+    },
+    "cpp": {
+      "command": "cl.exe",
+      "args": []
+    },
+    "csharp": {
+      "command": "csc.exe",
+      "args": []
+    }
+  },
+  "commands": {
+    "python": {
+      "flag": "--onefilesx"
+    },
+    "cpp": {
+      "flag": "--oxpp"
+    },
+    "csharp": {
+      "flag": "--convertx"
+    }
+  },
+  "outputExtension": ".exe"
+}

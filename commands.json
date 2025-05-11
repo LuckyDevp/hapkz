@@ -1,0 +1,14 @@
+{
+  "hapkz": {
+    "language": "python",
+    "usage": "hapkz <source.py> --onefilesx <output.exe>"
+  },
+  "hapks": {
+    "language": "cpp",
+    "usage": "hapks <source.cpp> --oxpp <output.exe>"
+  },
+  "hapksz": {
+    "language": "csharp",
+    "usage": "hapksz <source.cs> --convertx <output.exe>"
+  }
+}
