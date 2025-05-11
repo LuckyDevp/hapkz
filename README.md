@@ -36,8 +36,8 @@ Make sure you have Node.js installed (version 14 or higher).
 
 ## Creator
 
-Developed by **Your Name**  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
+Developed by **Source Developer**  
+GitHub: [https://github.com/LuckyDevp](https://github.com/LuckyDevp)  
 Website: [https://yourwebsite.com](https://yourwebsite.com)
 
 ---
